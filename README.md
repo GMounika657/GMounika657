@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gajula Mounika  
 ### Java Developer | Full Stack Developer | Backend Engineer
 
-I am a passionate **Computer Science Engineering graduate (2024)** with strong expertise in **Core Java, J2EE, Spring Boot, SQL, and full-stack web development**.  
+I am a passionate **Computer Science Engineering graduate (2021 - 2025)** with strong expertise in **Core Java, J2EE, Spring Boot, SQL, and full-stack web development**.  
 I enjoy building scalable applications, solving backend challenges, and writing clean and efficient code.
 
 ---
