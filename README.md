@@ -19,8 +19,7 @@ I enjoy building scalable applications, solving backend challenges, and writing 
 ## 🛠️ Tech Stack
 
 ### **Backend**
-- Core Java (OOPS, Collections, Exception handling)  |  JDBC  |  J2EE (JSP, Servlets)  |  Java 8 (Streams, Lambda, Functional Interfaces)
-  Spring Framework | Spring Boot  |  Spring MVC  | Spring Data JPA | REST APIs 
+- Core Java (OOPS, Collections, Exception handling)  |  JDBC  |  J2EE (JSP, Servlets)  |  Java 8 (Streams, Lambda, Functional Interfaces)  |  Spring Framework | Spring Boot  |  Spring MVC  | Spring Data JPA | REST APIs 
 
 ### **Frontend**
 - HTML  | CSS  | JavaScript | ReactJS
