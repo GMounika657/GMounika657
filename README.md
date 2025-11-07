@@ -19,7 +19,8 @@ I enjoy building scalable applications, solving backend challenges, and writing 
 ## 🛠️ Tech Stack
 
 ### **Backend**
-- Core Java (OOPS, Collections, Exception handling) | JDBC | J2EE (JSP, Servlets) | Java 8 (Streams, Lambda, Functional Interfaces)  | Spring, Spring Boot, Spring MVC  | Spring Data JPA | REST APIs 
+- Core Java (OOPS, Collections, Exception handling)  |  JDBC  |  J2EE (JSP, Servlets)  |  Java 8 (Streams, Lambda, Functional Interfaces)
+  Spring Framework | Spring Boot  |  Spring MVC  | Spring Data JPA | REST APIs 
 
 ### **Frontend**
 - HTML  | CSS  | JavaScript | ReactJS
@@ -28,7 +29,7 @@ I enjoy building scalable applications, solving backend challenges, and writing 
 - MySQL  
 
 ### **Tools & Others**
-- Postman | Maven | Git & GitHub | Eclipse IDE | Visual Studio Code | MySQL Workbench
+- Postman  |  Maven  |  Git & GitHub  |  Eclipse IDE  |  Visual Studio Code  |  MySQL Workbench
 
 ---
 
@@ -39,8 +40,6 @@ A web-based platform for booking wildlife tours with complete admin and user mod
 ✅ Features: User login, booking history, hotel & safari management  
 ✅ Technologies: JSP, Servlets, JDBC, MVC, MySQL  
 
-🔗 _Add repository link here_
-
 ---
 
 ### **2️⃣ Online Pet Store Management System**
@@ -48,16 +47,12 @@ A complete full-stack web application for purchasing pet products online.
 ✅ Features: Role-based authentication, cart, wishlist, product management  
 ✅ Technologies: Java, JSP, JDBC, HTML, CSS  
 
-🔗 _Add repository link here_
-
 ---
 
 ### **3️⃣ Hospital Management System – CRUD (Spring Boot)**
 A Spring Boot CRUD application for managing hospital operations.  
 ✅ Features: CRUD for doctors, patients, departments  
 ✅ Technologies: Spring Boot, JPA, Thymeleaf, MySQL  
-
-🔗 _Add repository link here_
 
 ---
 
